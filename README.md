@@ -1,1 +1,1 @@
-<h1 align="center">Hidden Sword Pavilion</h1>
+<h1>Hidden Sword Pavilion</h1>
