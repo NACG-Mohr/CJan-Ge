@@ -1,5 +1,7 @@
 <h1 align="center">Hidden Sword Pavilion</h1>
 旨在建设高质量网络安全工具开发社区，将不断地收集优秀的安全开源项目
+### 可投稿
+投稿格式
 <h2 align="center">项目总览</h2>
 
 | 序号 | 项目名称 | 项目简介 | 传送门
